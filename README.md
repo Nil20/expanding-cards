@@ -9,3 +9,4 @@ Champions.
 ## Local Development
 
 1. Open index.html in the browser.
+2. Download css and js.
